@@ -1,6 +1,6 @@
 # Visual Studio Code + Anaconda + Tensorflow + Debugging
 
-1. Download & install Visual Studio Code if you havne't yet
+1. Download & install Visual Studio Code if you haven't yet
 2. Install the Python extension by Don Jayamanne
 3. Clone this repository
 4. Download & install Anaconda
