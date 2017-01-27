@@ -1,0 +1,4 @@
+{
+    //"python.pythonPath": "/Users/{YOUR_USER_NAME}/anaconda/envs/{YOUR_ENVIRONMENT_NAME}/bin/python3.5"
+    "python.pythonPath": "/Users/alexwalchli/anaconda/envs/tensorflow/bin/python3.5"
+}
